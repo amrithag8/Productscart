@@ -1,0 +1,24 @@
+.detailsPage{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    margin-top: 40px;
+}
+.detailsPage img{
+    width: 300px;
+    height: 350px;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.detailsPage h2{
+    color: black;
+    
+    
+}
+

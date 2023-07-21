@@ -1,0 +1,312 @@
+[
+    {
+      "id": 1,
+      "title": "OnePlus 8T 5G",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 29500,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Redmi",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/41yEVApqsLL._SX300_SY300_QL70_FMwebp_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/61oDpGk8uYL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61T6fOPh7dL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61WEXquocyL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/71UqqpGVheL._SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51d-ounkr4L._SX679_.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 34,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/2/1.jpg",
+        "https://i.dummyjson.com/data/products/2/2.jpg",
+        "https://i.dummyjson.com/data/products/2/3.jpg",
+        "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "realme 11 Pro 5G",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/51kbvqII2DL._SX679_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81hDNlqWGYL._SX679_.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 123,
+      "brand": "OPPO",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/4/1.jpg",
+        "https://i.dummyjson.com/data/products/4/2.jpg",
+        "https://i.dummyjson.com/data/products/4/3.jpg",
+        "https://i.dummyjson.com/data/products/4/4.jpg",
+        "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Samsung Galaxy M14 5G ",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 14990,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Huawei",
+      "category": "smartphones",
+      "thumbnail": "https://m.media-amazon.com/images/I/91zMokvCNuL._SX679_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/5/1.jpg",
+        "https://i.dummyjson.com/data/products/5/2.jpg",
+        "https://i.dummyjson.com/data/products/5/3.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "iQOO Neo 6 5G",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 24999,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "Apple",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/71WS-0ITj7L._SX679_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/6/1.png",
+        "https://i.dummyjson.com/data/products/6/2.jpg",
+        "https://i.dummyjson.com/data/products/6/3.png",
+        "https://i.dummyjson.com/data/products/6/4.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "realme Narzo 50 Pro 5G",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 18499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Samsung",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/71mDlesvVKL._SX679_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/7/1.jpg",
+        "https://i.dummyjson.com/data/products/7/2.jpg",
+        "https://i.dummyjson.com/data/products/7/3.jpg",
+        "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Redmi 11 Prime 5G",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+      "price": 14999,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "brand": "Microsoft Surface",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/81lAth+jv+L._SX679_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/8/1.jpg",
+        "https://i.dummyjson.com/data/products/8/2.jpg",
+        "https://i.dummyjson.com/data/products/8/3.jpg",
+        "https://i.dummyjson.com/data/products/8/4.jpg",
+        "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Vivo Y56 5G",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": 19999,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "Infinix",
+      "category": "mobile",
+      "thumbnail": "https://m.media-amazon.com/images/I/61y7ZbTQcWL._SX679_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/9/1.jpg",
+        "https://i.dummyjson.com/data/products/9/2.png",
+        "https://i.dummyjson.com/data/products/9/3.png",
+        "https://i.dummyjson.com/data/products/9/4.jpg",
+        "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Oppo A78 5G",
+      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+      "price": 18999,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 89,
+      "brand": "HP Pavilion",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/81E6oqlDjZL._SX679_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/10/1.jpg",
+        "https://i.dummyjson.com/data/products/10/2.jpg",
+        "https://i.dummyjson.com/data/products/10/3.jpg",
+        "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "OPPO F23 5G",
+      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+      "price": 24999,
+      "discountPercentage": 8.4,
+      "rating": 4.26,
+      "stock": 65,
+      "brand": "Impression of Acqua Di Gio",
+      "category": "fragrances",
+      "thumbnail": "https://m.media-amazon.com/images/I/71oHYvZADFL._SX679_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/11/1.jpg",
+        "https://i.dummyjson.com/data/products/11/2.jpg",
+        "https://i.dummyjson.com/data/products/11/3.jpg",
+        "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "HP Pavilion 14 11th Gen Intel Core i5",
+      "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+      "price": 62490,
+      "discountPercentage": 15.66,
+      "rating": 4,
+      "stock": 52,
+      "brand": "Royal_Mirage",
+      "category": "fragrances",
+      "thumbnail": "https://m.media-amazon.com/images/I/7179kdE6T+L._SX679_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/12/1.jpg",
+        "https://i.dummyjson.com/data/products/12/2.jpg",
+        "https://i.dummyjson.com/data/products/12/3.png",
+        "https://i.dummyjson.com/data/products/12/4.jpg",
+        "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "RedmiBook Pro Intel Core i5 11th Gen",
+      "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
+      "price": 41990,
+      "discountPercentage": 8.14,
+      "rating": 4.59,
+      "stock": 61,
+      "brand": "Fog Scent Xpressio",
+      "category": "fragrances",
+      "thumbnail": "https://m.media-amazon.com/images/I/71juaFY2jXL._SX522_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/13/1.jpg",
+        "https://i.dummyjson.com/data/products/13/2.png",
+        "https://i.dummyjson.com/data/products/13/3.jpg",
+        "https://i.dummyjson.com/data/products/13/4.jpg",
+        "https://i.dummyjson.com/data/products/13/thumbnail.webp"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Dell Vostro 3420 Laptop,Intel i5-1135G7/8GB/512GB",
+      "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+      "price": 48490,
+      "discountPercentage": 15.6,
+      "rating": 4.21,
+      "stock": 114,
+      "brand": "Al Munakh",
+      "category": "fragrances",
+      "thumbnail": "https://m.media-amazon.com/images/I/51M0Yi3zmUL._SX522_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/14/1.jpg",
+        "https://i.dummyjson.com/data/products/14/2.jpg",
+        "https://i.dummyjson.com/data/products/14/3.jpg",
+        "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "ASUS Vivobook 15, Intel Core i5-1135G7 11th Gen",
+      "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+      "price": 56000,
+      "discountPercentage": 10.99,
+      "rating": 4.7,
+      "stock": 105,
+      "brand": "Lord - Al-Rehab",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/31J1urz+goL.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/15/1.jpg",
+        "https://i.dummyjson.com/data/products/15/2.jpg",
+        "https://i.dummyjson.com/data/products/15/3.jpg",
+        "https://i.dummyjson.com/data/products/15/4.jpg",
+        "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Acer One 14 Laptop Intel Core i5 1135G7",
+      "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+      "price": 54000,
+      "discountPercentage": 13.31,
+      "rating": 4.83,
+      "stock": 110,
+      "brand": "L'Oreal Paris",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/71oJW6kGppL._SX679_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/16/1.png",
+        "https://i.dummyjson.com/data/products/16/2.webp",
+        "https://i.dummyjson.com/data/products/16/3.jpg",
+        "https://i.dummyjson.com/data/products/16/4.jpg",
+        "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "HP Laptop 15s, 12th Gen Intel Core i5-1235U",
+      "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+      "price": 59000,
+      "discountPercentage": 4.09,
+      "rating": 4.52,
+      "stock": 78,
+      "brand": "Hemani Tea",
+      "category": "laptops",
+      "thumbnail": "https://m.media-amazon.com/images/I/81koa5VFokL._SX679_.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/17/1.jpg",
+        "https://i.dummyjson.com/data/products/17/2.jpg",
+        "https://i.dummyjson.com/data/products/17/3.jpg",
+        "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
+      ]
+    }
+  ]
