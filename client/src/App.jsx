@@ -12,7 +12,7 @@ function App() {
 
 
   const productFetch=async()=>{
-const response=await axios("http://localhost:3005/products");
+const response=await axios("https://productscart.vercel.app/products");
 setProduct(response.data);
   }
 

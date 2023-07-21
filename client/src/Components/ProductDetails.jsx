@@ -15,7 +15,7 @@ export const ProductDetails=()=>{
     console.log("id", id);
 
     const fetchProductDetails=async()=>{
-        const res=await axios(`http://localhost:3005/products/${id}`);
+        const res=await axios(`https://productscart.vercel.app/products/${id}`);
         console.log("prod", res.data);
         console.log("hi");
         setproductDetails(res.data);
